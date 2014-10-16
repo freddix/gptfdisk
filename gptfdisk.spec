@@ -1,11 +1,11 @@
 Summary:	GPT text-mode partitioning tool
 Name:		gptfdisk
-Version:	0.8.9
+Version:	0.8.10
 Release:	1
 License:	GPL v2
 Group:		Applications/System
 Source0:	http://downloads.sourceforge.net/project/gptfdisk/gptfdisk/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	9b2e6c197bacdee804238fb64b8f90f6
+# Source0-md5:	9cf4246c181c324bdbd553fe9b348373
 URL:		http://www.rodsbooks.com/gdisk/
 BuildRequires:	icu-devel
 BuildRequires:	libuuid-devel
